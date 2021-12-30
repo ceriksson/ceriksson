@@ -6,7 +6,7 @@ I'm a full stack dev based in London. Currently focused on mobile (iOS, Android,
 
 - 🔭 I’m currently working with payments & SDKs at [Primer](https://github.com/primer-io) ([iOS](./), [React Native](./), Android, and more...)
 
-- 🌱 I’m currently learning Solidity, K8s, & Wasm/Rust
+- 🌱 I’m currently learning Solidity, PostgreSQL, K8s, & Wasm/Rust
 
 - 📫 Reach me on: [Twitter](https://twitter.com/CarlFredrikAll)
 
