@@ -4,7 +4,7 @@ I'm a full stack dev based in London. Currently focused on mobile (iOS, Android,
 
 <br>
 
-- 🔭 I’m currently working with payments & SDKs at [Primer](https://github.com/primer-io) ([iOS](./), [React Native](./), Android, and more...)
+- 🔭 I’m currently working with payments & SDKs at [Primer](https://github.com/primer-io) ([iOS](https://github.com/primer-io/primer-sdk-ios), [React Native](https://github.com/primer-io/primer-sdk-react-native), Android, and more...)
 
 - 🌱 I’m currently learning Solidity, PostgreSQL, K8s, & Wasm/Rust
 
