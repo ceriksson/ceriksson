@@ -1,16 +1,16 @@
 ### Hey! 👋
 
-I'm a full stack dev based in London. Currently focused on mobile (iOS, Android, RN, & Flutter) + some backend (Node, FastAPI). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
+I'm a full stack dev based in London with experience in web (Next.js, Angular, Preact), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, Python API, golang, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
 
 <br>
 
-- 🔭 I’m currently working with payments & SDKs at [Primer](https://github.com/primer-io) ([iOS](https://github.com/primer-io/primer-sdk-ios), [React Native](https://github.com/primer-io/primer-sdk-react-native), Android, and more...)
+- 🔭 I’m currently busy building awesome "Pricing as a Service" products at [Kana](https://www.usekana.com/)
 
-- 🌱 I’m currently learning Solidity, PostgreSQL, K8s, & Wasm/Rust
+- 🌱 Always excited to learn new languages/frameworks (right now: Terraform, Unity & Wasm)
 
 - 📫 Reach me on: [Twitter](https://twitter.com/CarlFredrikAll)
 
-- ⚡ Fun fact: I studied Japanese for 5+ years & lived in Kyoto for a year
+- 🇯🇵 Fun fact: I studied Japanese for 5+ years & lived in Kyoto for a year
 
 <br>
 
@@ -43,6 +43,8 @@ I'm a full stack dev based in London. Currently focused on mobile (iOS, Android,
   <img src="https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=circleci">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
+  <img src="https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs">
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform">
 </p>
 
 <br />
