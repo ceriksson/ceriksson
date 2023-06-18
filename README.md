@@ -1,18 +1,6 @@
 ### Hey! 👋
 
-I'm a full stack dev based in London with experience in web (Next.js, Angular, Preact), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, Python API, golang, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
-
-<br>
-
-- 🔭 I’m currently busy building awesome "Pricing as a Service" products at [Kana](https://www.usekana.com/)
-
-- 🌱 Always excited to learn new languages/frameworks (right now: Terraform, Unity & Wasm)
-
-- 📫 Reach me on: [Twitter](https://twitter.com/CarlFredrikAll)
-
-- 🇯🇵 Fun fact: I studied Japanese for 5+ years & lived in Kyoto for a year
-
-<br>
+I'm a full stack dev with experience in web (Next.js, Angular, Preact), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, Python API, golang, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
 
 ## 🛠 Current Tech Stack
 
