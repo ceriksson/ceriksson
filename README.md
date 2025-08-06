@@ -1,10 +1,15 @@
 ### Hey! 👋
 
-I'm a full stack dev with experience in web (Next.js, Angular, Preact), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, Python API, golang, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
+I'm a full stack dev with experience in web (Next.js, Vite.js, etc.), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, FastAPI, Gin, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
 
 ## 🛠 Current Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare">
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi">
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript">
   <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass">
@@ -13,8 +18,6 @@ I'm a full stack dev with experience in web (Next.js, Angular, Preact), mobile (
   <img src="https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi">
   <img src="https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift">
   <img src="https://img.shields.io/badge/-iOS-05122A?style=flat&logo=apple">
   <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
@@ -33,10 +36,5 @@ I'm a full stack dev with experience in web (Next.js, Angular, Preact), mobile (
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
   <img src="https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs">
   <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform">
-</p>
-
-<br />
-
-<p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ceriksson&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+  <img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai">
 </p>
