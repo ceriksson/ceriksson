@@ -40,14 +40,3 @@ I'm a full stack dev with experience in web (Next.js, Angular, Preact), mobile (
 <p align="center">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ceriksson&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
 </p>
-
-##
-
-<p align="center" style="background:blue">
-  <a href="https://www.linkedin.com/in/cf-eriksson/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Carl%20Fredrik%20Eriksson-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
-  </a>
-  <a href="https://twitter.com/CarlFredrikAll" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-CarlFredrikAll-05122A?style=flat&logo=twitter" alt="Twitter"/>
-  </a>
-</p>
