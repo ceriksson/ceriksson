@@ -37,4 +37,10 @@ I'm a full stack dev with experience in web (Next.js, Vite.js, etc.), mobile (iO
   <img src="https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs">
   <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform">
   <img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai">
+    <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel">
+      <img src="https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js">
+   <img src="https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean">
+  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
+   <img src="https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm">
+  <img src="https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe">
 </p>
