@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm a full stack dev with experience in web (Next.js, Vite.js, etc.), mobile (iOS, Android, RN, & Flutter) and backend (Nest.js, FastAPI, Gin, etc.). I love working with cool new products using different tech stacks, reach out to me about anything [here](https://github.com/ceriksson/ceriksson/issues) :)
+I'm a full stack dev currently building [portcall]([https://github.com/ceriksson/ceriksson/issues](https://github.com/useportcall/portcall))
 
 ## 🛠 Current Tech Stack
 
