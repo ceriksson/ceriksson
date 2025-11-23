@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm a full stack dev currently building [portcall]([https://github.com/ceriksson/ceriksson/issues](https://github.com/useportcall/portcall))
+I'm a full stack dev currently building [portcall]([https://github.com/ceriksson/ceriksson/issues](https://github.com/useportcall/portcall)).
 
 ## 🛠 Current Tech Stack
 
