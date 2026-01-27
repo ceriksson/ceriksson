@@ -1,6 +1,10 @@
 ### Hey! 👋
 
-I'm a full stack dev currently building [portcall](https://github.com/useportcall/portcall).
+I'm a full stack dev currently building revenue automation engine [Portcall](https://useportcall.com/).
+
+Portcall lets you handle complex PLG and sales-led billing, entitlement + global sales tax, all in one platform.
+
+Open source version can be found [here](https://github.com/useportcall/portcall) (⚠ major update/launch planned for end of Jan 2026 + private cloud version).
 
 ## 🛠 Current Tech Stack
 
