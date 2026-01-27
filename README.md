@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm a full stack dev currently building revenue automation engine [Portcall](https://useportcall.com/).
+I'm a full stack dev currently building the revenue automation engine [Portcall](https://useportcall.com/).
 
 Portcall lets you handle complex PLG and sales-led billing, entitlement + global sales tax, all in one platform.
 
