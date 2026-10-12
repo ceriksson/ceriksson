@@ -2,7 +2,7 @@
 
 I'm a full stack dev (ex-Primer & PayPal) currently working on building the modern authentication & trust platform at [Prelude](https://prelude.so/).
 
-Prior to Prelude, I have worked on my own OSS revenue automation platform, and on payment engines powering merchants doing 100s of millions of dollars in sales globally.
+Prior to Prelude, I have worked on my own OSS revenue automation platform, and on payment engines powering merchants doing hundreds of millions of dollars in sales globally.
 
 ## 🛠 Current Tech Stack
 
