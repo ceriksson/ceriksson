@@ -1,10 +1,8 @@
 ### Hey! 👋
 
-I'm a full stack dev (ex-Primer & PayPal) currently building the revenue automation engine [Portcall](https://useportcall.com/).
+I'm a full stack dev (ex-Primer & PayPal) currently working on building the modern authentication & trust platform at [Prelude](https://prelude.so/).
 
-Portcall lets you handle complex PLG and sales-led billing, entitlement + global sales tax, all in one platform.
-
-Open source version can be found [here](https://github.com/useportcall/portcall) (⚠ major update/launch planned for end of Jan 2026 + private cloud version).
+Prior to Prelude, I have worked on my own OSS revenue automation platform, and on payment engines powering merchants doing 100s of millions of dollars in sales globally.
 
 ## 🛠 Current Tech Stack
 
@@ -15,6 +13,7 @@ Open source version can be found [here](https://github.com/useportcall/portcall)
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript">
+  <img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust">
   <img src="https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno">
   <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
@@ -37,26 +36,18 @@ Open source version can be found [here](https://github.com/useportcall/portcall)
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
 </p>
 
-#### Backend
+#### Backend & Infra
 
 <p>
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi">
   <img src="https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs">
   <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
-</p>
-
-#### Databases & Storage
-
-<p>
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
   <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
   <img src="https://img.shields.io/badge/-ClickHouse-05122A?style=flat&logo=clickhouse">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
-</p>
-
-#### Cloud & Infra
-
-<p>
+  <img src="https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=dynamodb">
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
   <img src="https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare">
